@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-multipart
+httpx
+python-dotenv
+pyzbar
+opencv-python
+pefile
+scikit-learn
+pandas
+anthropic
